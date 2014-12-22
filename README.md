@@ -15,4 +15,4 @@ them implied by the existence of the files within them.  I would also
 seek further integration with os-level file lookup tools to improve
 speed.  That said, this module has done a good job avoided conflicts 
 and data loss when allowing both external users and other programmers 
-to manipulate files on our system.  Thanks for your interst in my work!
+to manipulate files on our system.  Thanks for your interest in my work!
